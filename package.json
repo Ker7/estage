@@ -1,0 +1,10 @@
+{
+  "name": "estage",
+  "version": "1.0.0",
+  "description": "Electronic Stage Incorporated",
+  "main": "index.js",
+  "repository": "https://github.com/Ker7/estage.git",
+  "author": "Ker7 <kert.mottus@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
